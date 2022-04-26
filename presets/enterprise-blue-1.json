@@ -1,0 +1,34 @@
+{
+    "supernova_header_type": 1,
+    "header_type": 3,
+    "navicon_type": 2,
+
+    "ui_nav_size": 16,
+    "ui_nav_weight": 500,
+    "ui_nav_justify": "flex-end",
+    "ui_nav_align": "flex-end",
+    "ui_logo_align": "left",
+
+    "compact_nav": 1,
+    "content_width": 1170,
+
+    "body_background_colour": "#ffffff",
+    "body_text_colour": "#000000",
+
+    "header_background_colour": "#002169",
+    "footer_background_colour": "#002169",
+
+    "primary_colour": "#1f69ff",
+    "ui_link_colour": "#1f69ff",
+    "ui_link_colour_hover": "#58718d",
+    "header_menu_text_colour": "#ffffff",
+    "header_menu_hover_colour": "#1f69ff",
+
+    "heading_font": "Red Hat Display",
+    "body_font": "Roboto",
+
+    "supernova_side_panel_background_colour": "#ffffff",
+    "supernova_side_panel_text_colour": "#000000",
+    "supernova_side_panel_link_colour": "#002169",
+    "supernova_side_panel_link_hover_colour": "#1f69ff"
+}
